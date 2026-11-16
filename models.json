@@ -1,0 +1,369 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "airpods-pro",
+      "match": [
+        [
+          "airpods",
+          "pro"
+        ]
+      ],
+      "looks": [
+        [
+          "pods"
+        ]
+      ],
+      "file": "airpods-pro.glb",
+      "bytes": 5034228,
+      "sha256": "ebefc700c59fba9724182e69d0efc905a51b892b306cc069e7f26d05251834f5",
+      "pose": [
+        0.35,
+        -0.45,
+        0
+      ],
+      "scale": 0.8,
+      "finish": "soft-white",
+      "credit": {
+        "title": "AirPods Pro",
+        "url": "https://sketchfab.com/3d-models/airpods-pro-2a97b522bd1e43ffa342e4a19ff21e35",
+        "author": "eltayerkebulan",
+        "authorUrl": "https://sketchfab.com/eltayerkebulan",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "recoloured"
+      }
+    },
+    {
+      "id": "airpods-max",
+      "match": [
+        [
+          "airpods",
+          "max"
+        ]
+      ],
+      "file": "airpods-max.glb",
+      "bytes": 8701400,
+      "sha256": "93459427311f0e8a1c71b2a39e4e6e12f89930cd2aafaf759961c339992a1d9b",
+      "pose": [
+        0.1,
+        0.6,
+        0
+      ],
+      "scale": 1,
+      "finish": "space-gray",
+      "credit": {
+        "title": "Airpods max",
+        "url": "https://sketchfab.com/3d-models/airpods-max-05181e126a6341668ca95f2d98324d30",
+        "author": "Mr.Philin",
+        "authorUrl": "https://sketchfab.com/yarik.chilin",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "recoloured"
+      }
+    },
+    {
+      "id": "sony-xm4",
+      "match": [
+        [
+          "wh1000xm4"
+        ],
+        [
+          "wh1000xm3"
+        ],
+        [
+          "wh1000xm2"
+        ]
+      ],
+      "looks": [
+        [
+          "headphone"
+        ],
+        [
+          "overear"
+        ],
+        [
+          "wh1000"
+        ],
+        [
+          "whch7"
+        ],
+        [
+          "whxb"
+        ],
+        [
+          "ult",
+          "wear"
+        ],
+        [
+          "soundcore",
+          "q2"
+        ],
+        [
+          "soundcore",
+          "q3"
+        ],
+        [
+          "soundcore",
+          "q4"
+        ],
+        [
+          "space",
+          "one"
+        ],
+        [
+          "bose",
+          "quietcomfort"
+        ],
+        [
+          "bose",
+          "qc"
+        ],
+        [
+          "bose",
+          "700"
+        ],
+        [
+          "momentum"
+        ],
+        [
+          "jbl",
+          "tune",
+          "7"
+        ],
+        [
+          "jbl",
+          "live",
+          "6"
+        ],
+        [
+          "jbl",
+          "live",
+          "7"
+        ],
+        [
+          "jbl",
+          "760"
+        ],
+        [
+          "jbl",
+          "770"
+        ],
+        [
+          "beats",
+          "studio"
+        ],
+        [
+          "sennheiser",
+          "hd"
+        ]
+      ],
+      "file": "sony-xm4.glb",
+      "bytes": 4367392,
+      "sha256": "533637d107397654276e315443abed5ad65e7a8b387057c860125f445c079baa",
+      "pose": [
+        0.1,
+        0.6,
+        0
+      ],
+      "scale": 1,
+      "finish": "soft-white",
+      "credit": {
+        "title": "SONY headphone WH-1000XM4",
+        "url": "https://sketchfab.com/3d-models/sony-headphone-wh-1000xm4-f90f76c75d8143eb97eb49844050aa26",
+        "author": "Chizuko V",
+        "authorUrl": "https://sketchfab.com/chizuk0",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "recoloured"
+      }
+    },
+    {
+      "id": "sony-xm5",
+      "match": [
+        [
+          "wh1000xm5"
+        ]
+      ],
+      "file": "sony-xm5.glb",
+      "bytes": 2305052,
+      "sha256": "11de10df53a95644542ffe40bddaa014c8807b09a80487ca7b11d1056c321da0",
+      "pose": [
+        0.1,
+        0.6,
+        0
+      ],
+      "scale": 1,
+      "credit": {
+        "title": "Sony Wh-1000xm5",
+        "url": "https://sketchfab.com/3d-models/sony-wh-1000xm5-5d8aea0a780b49fa89c9c205912414e3",
+        "author": "Zalanekee",
+        "authorUrl": "https://sketchfab.com/Zalanekee",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": ""
+      }
+    },
+    {
+      "id": "galaxy-buds",
+      "match": [
+        [
+          "buds",
+          "live"
+        ],
+        [
+          "buds2"
+        ],
+        [
+          "buds",
+          "fe"
+        ]
+      ],
+      "looks": [
+        [
+          "buds"
+        ],
+        [
+          "earbuds"
+        ],
+        [
+          "tws"
+        ],
+        [
+          "liberty"
+        ],
+        [
+          "wf1000"
+        ],
+        [
+          "wfc"
+        ],
+        [
+          "earfun",
+          "free"
+        ],
+        [
+          "soundcore",
+          "life",
+          "p"
+        ],
+        [
+          "soundcore",
+          "life",
+          "a"
+        ],
+        [
+          "earbud"
+        ],
+        [
+          "inear"
+        ],
+        [
+          "space",
+          "a4"
+        ],
+        [
+          "space",
+          "a3"
+        ]
+      ],
+      "file": "galaxy-buds.glb",
+      "bytes": 1084244,
+      "sha256": "8808db1fd7416693738b203ffa9f87371102916aae8c5dfc1cb1359d83dbdf61",
+      "pose": [
+        0.35,
+        -0.45,
+        0
+      ],
+      "scale": 0.62,
+      "credit": {
+        "title": "Samsung Galaxy Buds Live",
+        "url": "https://sketchfab.com/3d-models/samsung-galaxy-buds-live-7e4a0f2202144b91b4c47ffbfdf94584",
+        "author": "DatSketch",
+        "authorUrl": "https://sketchfab.com/DatSketch",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": ""
+      }
+    },
+    {
+      "id": "jbl-t450",
+      "match": [
+        [
+          "jbl",
+          "t450"
+        ],
+        [
+          "jbl",
+          "t460"
+        ],
+        [
+          "jbl",
+          "t500"
+        ],
+        [
+          "jbl",
+          "tune",
+          "500"
+        ],
+        [
+          "jbl",
+          "tune",
+          "510"
+        ],
+        [
+          "jbl",
+          "tune",
+          "520"
+        ]
+      ],
+      "looks": [
+        [
+          "onear"
+        ],
+        [
+          "jbl",
+          "t4"
+        ],
+        [
+          "jbl",
+          "t5"
+        ],
+        [
+          "jbl",
+          "tune",
+          "5"
+        ],
+        [
+          "whch5"
+        ],
+        [
+          "beats",
+          "solo"
+        ]
+      ],
+      "file": "jbl-t450.glb",
+      "bytes": 3311588,
+      "sha256": "8ebd675e2013a6ad1d31ebdf33193393b950a52643802e9cc921f8155b3ae450",
+      "pose": [
+        0.1,
+        0.6,
+        0
+      ],
+      "scale": 1,
+      "hide": [
+        "Rubber_black",
+        "Jack"
+      ],
+      "credit": {
+        "title": "JBL T450",
+        "url": "https://sketchfab.com/3d-models/jbl-t450-6db4c5b60e124d40a8be06ec1fe22c67",
+        "author": "Oleksii Rozumnyi",
+        "authorUrl": "https://sketchfab.com/Oleksii.Rozumnyi",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "cable hidden"
+      }
+    }
+  ]
+}
